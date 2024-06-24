@@ -75,7 +75,7 @@ require (
 	github.com/elastic/go-ucfg v0.8.3
 	github.com/elastic/go-windows v1.0.1
 	github.com/elastic/gosigar v0.14.2
-	github.com/fatih/color v1.9.0
+	github.com/fatih/color v1.16.0
 	github.com/fearful-symmetry/gorapl v0.0.4
 	github.com/fsnotify/fsevents v0.1.1
 	github.com/fsnotify/fsnotify v1.5.1
@@ -101,7 +101,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/h2non/filetype v1.1.1
 	github.com/hashicorp/go-multierror v1.1.0
-	github.com/hashicorp/go-retryablehttp v0.6.6
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hashicorp/nomad/api v0.0.0-20201203164818-6318a8ac7bf8
 	github.com/hectane/go-acl v0.0.0-20190604041725-da78bae5fc95
@@ -116,7 +116,7 @@ require (
 	github.com/lib/pq v1.10.3
 	github.com/magefile/mage v1.11.0
 	github.com/mailru/easyjson v0.7.6 // indirect
-	github.com/mattn/go-colorable v0.1.6
+	github.com/mattn/go-colorable v0.1.13
 	github.com/mattn/go-ieproxy v0.0.0-20191113090002-7c0f6868bffe // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/miekg/dns v1.1.42
@@ -167,7 +167,7 @@ require (
 	golang.org/x/net v0.0.0-20211020060615-d418f374d309
 	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211102192858-4dd72447c267
+	golang.org/x/sys v0.20.0
 	golang.org/x/text v0.3.7
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	golang.org/x/tools v0.1.7
@@ -235,7 +235,7 @@ require (
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/hashicorp/cronexpr v1.1.0 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
-	github.com/hashicorp/go-cleanhttp v0.5.1 // indirect
+	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
 	github.com/hashicorp/go-version v1.2.0 // indirect
@@ -253,7 +253,7 @@ require (
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
 	github.com/markbates/pkger v0.17.0 // indirect
-	github.com/mattn/go-isatty v0.0.12 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/iochan v1.0.0 // indirect
